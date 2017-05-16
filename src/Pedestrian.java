@@ -60,6 +60,7 @@ class Pedestrian {
         //PVector tmp = new PVector;
         //tmp = seek(nextNode);
         //return tmp
+        return new PVector();
     }
 
     private PVector seek (PVector _target) {
